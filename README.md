@@ -2,6 +2,11 @@
 
 This repository designed for real-time streaming using only the prediction of the silero-vad model.
 
+Run the following command:
+```
+python speech_listener.py
+```
+
 ### Model Descriptions
 [Silero VAD](https://github.com/snakers4/silero-vad) is pre-trained enterprise-grade Voice Activity Detector.
 
